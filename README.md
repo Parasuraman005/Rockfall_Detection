@@ -82,8 +82,6 @@ Rockfall_Detection/
 
 ---
 
-## License
-This repository is provided under the MIT License. Feel free to modify and use it for research or commercial purposes.
 
 ---
 
